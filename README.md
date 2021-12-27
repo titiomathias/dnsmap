@@ -1,2 +1,2 @@
 # dnsmap
-Procura e testa endereços DNS para fins de segurança ofensiva.
+Search and test DNS Address to footprint stage of the pentest.
